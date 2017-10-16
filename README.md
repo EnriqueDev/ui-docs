@@ -11,6 +11,11 @@ about UI and UX.
 
 [Crash Course: UI Design](https://medium.com/hh-design/crash-course-ui-design-25d13ff60962)
 
+[UI Design: Famous Principles](https://medium.com/@oymanezzat/ui-design-famous-principles-41269344dd7b)
+
+## Color
+[How to use colors in UI Design](https://blog.prototypr.io/how-to-use-colors-in-ui-design-16406ec06753) 
+
 [Color in UI Design: A (Practical) Framework](https://medium.com/@erikdkennedy/color-in-ui-design-a-practical-framework-e18cacd97f9e)
 
-[UI Design: Famous Principles](https://medium.com/@oymanezzat/ui-design-famous-principles-41269344dd7b)
+[Picking Colors (Part 1)](https://medium.com/hh-design/picking-colors-part-1-techniques-4d67b314781d)

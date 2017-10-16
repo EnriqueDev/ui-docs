@@ -14,6 +14,9 @@ about UI and UX.
 [UI Design: Famous Principles](https://medium.com/@oymanezzat/ui-design-famous-principles-41269344dd7b)
 
 ## Color
+
+[The Most Important Color In UI Design](https://uxplanet.org/the-most-important-color-in-ui-design-d4f23aefffdf)
+
 [How to use colors in UI Design](https://blog.prototypr.io/how-to-use-colors-in-ui-design-16406ec06753) 
 
 [Color in UI Design: A (Practical) Framework](https://medium.com/@erikdkennedy/color-in-ui-design-a-practical-framework-e18cacd97f9e)
